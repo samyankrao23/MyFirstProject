@@ -1,0 +1,17 @@
+2017-05-15 19:59:04,246 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' F:\NewJavaProject\FirstProject\pom.xml
+2017-05-15 19:59:13,750 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FirstMavenProject:FirstProject:0.0.1-SNAPSHOT @ F:\NewJavaProject\FirstProject\pom.xml.
+2017-05-15 19:59:18,715 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstProject/src/main/java
+2017-05-15 19:59:18,735 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstProject/src/test/java
+2017-05-15 19:59:21,530 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2017-05-15 19:59:23,288 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-15 19:59:23,290 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\NewJavaProject\FirstProject\src\main\resources
+2017-05-15 19:59:23,323 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-15 19:59:23,324 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\NewJavaProject\FirstProject\src\test\resources
+2017-05-15 20:21:57,049 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-15 20:21:57,051 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\NewJavaProject\FirstProject\src\main\resources
+2017-05-15 20:21:57,056 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-15 20:21:57,057 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\NewJavaProject\FirstProject\src\test\resources
+2017-05-15 20:27:15,651 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-15 20:27:15,652 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\NewJavaProject\FirstProject\src\main\resources
+2017-05-15 20:27:15,655 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-15 20:27:15,656 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\NewJavaProject\FirstProject\src\test\resources
