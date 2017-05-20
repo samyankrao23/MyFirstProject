@@ -1,0 +1,17 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is E05D-E3C8
+
+ Directory of F:\NewJavaProject\FirstProject
+
+21-05-2017  03:25    <DIR>          .
+21-05-2017  03:25    <DIR>          ..
+15-05-2017  19:59             1,022 .classpath
+15-05-2017  19:59               564 .project
+15-05-2017  19:59    <DIR>          .settings
+21-05-2017  03:24    <DIR>          dir
+21-05-2017  03:25                 0 mynewfile
+15-05-2017  19:59               790 pom.xml
+15-05-2017  19:59    <DIR>          src
+15-05-2017  19:59    <DIR>          target
+               4 File(s)          2,376 bytes
+               6 Dir(s)  28,713,828,352 bytes free
